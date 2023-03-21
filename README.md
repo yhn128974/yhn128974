@@ -38,5 +38,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊Github Stats:
 
-![Most Used Languages]([templates\languages.svg](https://github.com/yhn128974/yhn128974.github.io/blob/main/templates/languages.svg))
+![Most Used Languages](templates/languages.svg)
 <br>
