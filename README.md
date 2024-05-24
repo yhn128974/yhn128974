@@ -23,11 +23,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-
+<br/>
 <div>
     <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
 </div>
-<br/>
 <br/>
 
 <div style="display: flex; justify-content: start;">
