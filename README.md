@@ -27,9 +27,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 <div>
-  <p>
     <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="41px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
-  <p>
 </div>
 
 <div style="display: flex; justify-content: start;">
