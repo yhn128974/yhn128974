@@ -47,10 +47,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="41px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
 </div>
-<br>
+<br/>
+<br/>
 <div>
     <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="31px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
 </div>
+<br/>
 <br/>
 
 ### 📊Github Stats:
