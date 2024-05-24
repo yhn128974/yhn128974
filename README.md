@@ -26,9 +26,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 
-<div>
-    <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="41px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
-</div>
+
 
 <div style="display: flex; justify-content: start;">
   
@@ -47,6 +45,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="41px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="41px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+
+</div>
+<div>
+    <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="41px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
 </div>
 <br/>
 
