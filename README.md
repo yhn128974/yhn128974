@@ -24,10 +24,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 
-<br/>
-<br/>
 <div>
-    <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="31px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
+    <a href="https://www.harmonyos.com" target="_blank"><img align="left" alt="HarmonyOS" height ="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/HarmonyOS_logo.svg"></a>
 </div>
 <br/>
 <br/>
