@@ -24,8 +24,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 
-
-
 <br/>
 <br/>
 <div>
@@ -53,7 +51,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="41px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
 </div>
-
+<br/>
+<br/>
 
 ### 📊Github Stats:
 
